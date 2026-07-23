@@ -3,8 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:/Users/ASUS/Documents/Arduino/libraries/**",
-                "C:/Program Files (x86)/Arduino/hardware/tools/avr/**"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
